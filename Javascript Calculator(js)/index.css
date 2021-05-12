@@ -1,0 +1,35 @@
+
+
+input {
+    background-color: black;
+    border-radius: 10px;
+    width:150px;
+    height:100px;
+    margin:10px;
+    font-size: 70px;
+    border-style: none;
+    font-weight: bolder;
+    color:white;
+}
+input:hover{
+    background-color: chartreuse;
+}
+h1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 70px;
+    margin-left: 25%;
+}
+
+#myform{
+    margin-left: 300px;
+    margin-top: 20px;
+}
+
+#display {
+    width:675px;
+    height:100px;
+    text-align: center;
+    background-color: white;
+    color:chartreuse;
+    font-size:100px;
+}
